@@ -1,0 +1,35 @@
+
+.not-found {
+  width: 90%;
+  max-width: 800px;
+  margin: 100px auto;
+  text-align: center;
+}
+
+.not-found h1 {
+  font-size: 80px;
+  color: #d14b72 !important;
+  display: block;
+  margin: 0 0 10px;
+}
+
+.not-found h2 {
+  font-size: 32px;
+  color: #222;
+  margin-bottom: 15px;
+}
+
+.not-found p {
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 25px;
+}
+
+.not-found a {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #d14b72;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+}
