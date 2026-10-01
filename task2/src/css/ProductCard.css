@@ -50,4 +50,8 @@
 .product-card a:hover {
   background-color: #b83d60;
 }
-
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 25px;
+}

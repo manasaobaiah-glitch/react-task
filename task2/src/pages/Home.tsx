@@ -1,4 +1,3 @@
-
 import Header from "../component/Header";
 import Hero from "./hero";
 import ProductCard from "../component/ProductCard";
@@ -32,7 +31,7 @@ function Home() {
         <h1>Our Products</h1>
 
         <div className="product-grid">
-          {products.map((item) => (
+          {products.slice(0, 4).map((item) => (
             <ProductCard key={item.id} data={item} />
           ))}
         </div>
