@@ -7,8 +7,8 @@ function about() {
 
             <div className="about-image">
                 <img
-                    src="https://i.pinimg.com/originals/d9/24/2e/d9242e421f1144b1d1d8466b91925c06.jpg"
-                    alt="FashionHub"
+                    src="https://cdn.shopify.com/s/files/1/0025/1350/2326/files/Rope-Nossa-Loja-01_2048x2048.jpg?v=1596849208"
+                    alt="Fashion Boutique"
                 />
             </div>
 
