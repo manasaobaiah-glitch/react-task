@@ -15,8 +15,7 @@ export const products: ProductType[] = [
     description:
       "A beautiful floral dress designed with a comfortable fit and elegant style for casual outings, brunches, shopping, vacations, and special occasions.",
     image:
-      "https://images.pexels.com/photos/985635/pexels-photo-985635.jpeg?auto=compress&cs=tinysrgb&w=600",
-
+      "https://images.pexels.com/photos/28446011/pexels-photo-28446011.jpeg?auto=compress&cs=tinysrgb&w=600",
     stock: "In Stock",
 
     specifications: {
@@ -82,7 +81,7 @@ export const products: ProductType[] = [
     description:
       "A modern denim jacket designed for men with a comfortable fit and versatile style for casual everyday outfits, travel, parties, and weekend looks.",
     image:
-      "https://levi.in/cdn/shop/files/003F80004_02_Front.jpg?v=1736333972",
+      "https://images.pexels.com/photos/3649765/pexels-photo-3649765.jpeg?auto=compress&cs=tinysrgb&w=600",
 
     stock: "In Stock",
 
@@ -149,8 +148,7 @@ export const products: ProductType[] = [
     description:
       "A sophisticated leather handbag featuring a spacious interior and elegant design for everyday use, office wear, shopping, and special occasions.",
     image:
-      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=600&q=80",
-
+      "https://images.pexels.com/photos/8502477/pexels-photo-8502477.jpeg?auto=compress&cs=tinysrgb&w=600",
     stock: "In Stock",
 
     specifications: {
@@ -215,9 +213,8 @@ export const products: ProductType[] = [
     reviews: 143,
     description:
       "Elegant women's heels designed to add a stylish touch to party outfits, dresses, weddings, dinners, and special occasions.",
-    image:
-      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=600&q=80",
-
+   image:
+  "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/77/771/7845/1/1/307898740/307898740_3_1_720x928.webp?q=75&w=1920",
     stock: "In Stock",
 
     specifications: {
@@ -282,9 +279,8 @@ export const products: ProductType[] = [
     reviews: 87,
     description:
       "A stylish casual shirt designed with a clean modern look and comfortable fabric. Perfect for office-casual outfits, dinners, travel, and weekend wear.",
-    image:
-      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=600&q=80",
-
+  image:
+  "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=600",
     stock: "In Stock",
 
     specifications: {
@@ -349,9 +345,8 @@ export const products: ProductType[] = [
     reviews: 187,
     description:
       "Classic white sneakers designed for everyday comfort and versatile styling. Perfect for jeans, dresses, casual outfits, travel, and daily wear.",
-    image:
-      "https://images.pexels.com/photos/6705219/pexels-photo-6705219.jpeg?auto=compress&cs=tinysrgb&w=600",
-
+   image:
+  "https://cdn.sanity.io/images/r2emo59v/production/2ba9d3756d5bb660aeaaa240bdc8cc59ac44630e-1200x1598.png",
     stock: "In Stock",
 
     specifications: {
@@ -416,9 +411,8 @@ export const products: ProductType[] = [
     reviews: 84,
     description:
       "A stylish casual top designed with a comfortable fit and soft fabric. Perfect for everyday wear, shopping, outings, and weekend styling.",
-    image:
-      "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?auto=format&fit=crop&w=600&q=80",
-
+   image:
+  "https://media.kohlsimg.com/is/image/kohls/7971938?hei=600&op_sharpen=1&wid=600",
     stock: "In Stock",
 
     specifications: {
@@ -483,9 +477,8 @@ export const products: ProductType[] = [
     reviews: 76,
     description:
       "A comfortable casual T-shirt with a modern fit and breathable fabric. Ideal for everyday wear, travel, and relaxed weekend outfits.",
-    image:
-      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=600&q=80",
-
+  image:
+  "https://www.vanillamodels.pl/assets/img/model/1346/VANILLAMODELS-DanielS-30.jpg",
     stock: "In Stock",
 
     specifications: {
